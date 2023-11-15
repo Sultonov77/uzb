@@ -1,0 +1,123 @@
+.container{
+    width: 1440px;
+    height: 900px;
+    background: #FFF;
+    margin: 0 auto;
+}
+.login__desk{
+    display: flex;
+}
+.right__side{
+text-align: center;
+margin-right: 50px;
+margin-top: 150px;
+}
+form{
+    margin-left: 210px;
+    text-align: left;
+
+}
+.heading{
+    color: var(--800, #2D3748);
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: left;
+margin-left: px;
+margin-bottom: 2px;
+}
+h2{
+    color: var(--900, #1A202C);
+font-family: Roboto;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: left;
+border: #F7FAFC;
+margin-top: 2px;
+margin-bottom: 14px;
+}
+.password{
+    color: var(--700, #4A5568);
+font-family: Roboto;
+font-size: 29px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: left;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.write_down{
+    width: 350px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid #E8E8E8;
+    font-size: 20px;
+    text-align: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.checkbox{
+    text-align: left;
+    fill: var(--100, #F7FAFC);
+stroke: #E8E8E8;
+margin-top: 12px;
+margin-bottom: 17px;
+}
+.remember{
+    color: var(--800, #2D3748);
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.forgot{
+    text-decoration: none;
+    margin-left: 80px;
+    font-size: 20px;
+}
+.login{
+    width: 347px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 5px;
+border-color: #E8E8E8;
+background: #04C35C;
+color: #FFF;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 17px;
+margin-bottom: 10px;
+margin-left: 7px;
+}
+.google{
+    color: #FFF;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 347px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 5px;
+background: var(--800, #2D3748);
+margin-top: 10px;
+margin-left: 7px;
+margin-bottom: 130px;
+}
+.free__join{
+    text-decoration: none;
+    font-size: 19px;
+    text-align: center;
+    margin-left: 8px;
+}
